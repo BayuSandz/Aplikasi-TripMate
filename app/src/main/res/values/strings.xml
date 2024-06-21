@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TripMate</string>
+        <string name="searchbar_hint">Cari tempat wisata...</string>
+
+</resources>
